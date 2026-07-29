@@ -1,0 +1,15 @@
+{
+	"name": "akazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6d0fa139-7e9e-4cd9-a27c-fc29ea364d2f",
+		"tenantId": "242e1dcc-43fc-4837-a332-bb5e4616824c"
+	}
+}
