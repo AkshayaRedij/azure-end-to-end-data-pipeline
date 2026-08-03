@@ -1,1 +1,12 @@
+Utility Functions
 
+This folder contains reusable helper functions used across the project.
+
+Examples include:
+
+- Common transformations
+- Reusable PySpark functions
+- Helper methods
+- Shared configurations
+
+Using reusable utilities reduces code duplication and improves maintainability.
