@@ -1,1 +1,11 @@
+Source Code
 
+This folder contains the core ETL notebooks and Python scripts responsible for processing Spotify datasets.
+
+The code follows the Medallion Architecture:
+
+- Bronze Layer
+- Silver Layer
+- Gold Layer
+
+Each notebook performs data ingestion, transformation, cleansing, and loading into Delta tables.
