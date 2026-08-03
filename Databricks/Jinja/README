@@ -1,1 +1,5 @@
+Jinja Templates
 
+This folder contains Jinja templates used to generate dynamic configuration files.
+
+Templates help avoid duplication by allowing reusable parameterized YAML and configuration files.
