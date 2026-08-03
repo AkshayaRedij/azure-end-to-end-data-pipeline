@@ -1,1 +1,11 @@
+Resources
 
+This folder contains Databricks Asset Bundle (DAB) resource definitions.
+
+These resources are used to deploy:
+
+- Jobs
+- Pipelines
+- Workflows
+
+The YAML configuration files define infrastructure required for executing the ETL pipeline.
