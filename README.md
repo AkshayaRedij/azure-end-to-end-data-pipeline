@@ -42,7 +42,7 @@ azureproject
 ├── adf/
 ├── databricks/
 ├── architecture/
-├── screenshots/
+├── images/
 └── docs/
 ```
 
